@@ -1,0 +1,136 @@
+nav {
+    position: sticky;
+    top: 0px;
+
+    box-shadow: 3px 3px 3px rgb(0 0 0 / 20%);
+}
+
+li {
+    text-transform: uppercase;
+
+    color: white;
+
+    font-size: 12px;
+}
+
+li:hover {
+    background-color: rgb(180, 17, 17);
+}
+
+section {
+    background-color: #faf7ee;
+    text-transform: capitalize;
+}
+
+.big-img {
+    margin: 15px;
+}
+
+.space-text-h3 {
+    color: #b5090e;
+    text-align: center;
+    font-family: Arima Madurai;
+    /* text-decoration: rgb(202, 157, 157) underline; */
+}
+
+.side-img-1 {
+    text-align: center;
+
+}
+
+.april.p {
+    text-align: center;
+}
+
+.p-color {
+    color: #aa5900;
+    font-size: 15px;
+    word-spacing: 2px;
+    letter-spacing: 0.2px;
+    /* line-height: 20px; */
+}
+
+.space-p-baps {
+    text-align: center;
+    font-size: 17px;
+    letter-spacing: 0.3px;
+    line-height: 1.55;
+    word-spacing: 3px;
+
+    /* padding-right: 5px; */
+    text-rendering: optimizelegibility;
+}
+
+.box-img-5 {
+    margin-left: 130px;
+    display: inline-block;
+}
+
+.under-box-p {
+    text-align: center;
+    color: #aa5900;
+    padding: 8px;
+}
+
+.round-img1,
+.round-img2 {
+    text-align: center;
+    margin-top: 20px;
+    display: inline-block;
+    margin-left: 38%;
+}
+
+.round-img2 {
+    margin-left: 10px;
+}
+
+.round-image {
+    display: inline-block;
+    text-align: center;
+    margin-left: 80px;
+}
+
+.square-img {
+    display: inline-block;
+    margin-left: 17px;
+    margin-top: 10px;
+    box-shadow: 1px 1px 1px rgb(0 0 0 / 2%);
+}
+
+.sites-imges {
+    margin-left: 60px;
+    border-radius: 0.25rem;
+}
+
+.icon {
+    padding-left: 40px;
+    text-align: center;
+}
+
+.last-icon {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.app-p {
+    text-align: center;
+    color: #aa5900;
+    background-color: white;
+}
+
+.footer-p {
+    text-align: center;
+    position: sticky;
+    bottom: 0px;
+    background-color: white;
+}
+
+footer {
+    position: sticky;
+    bottom: 0px;
+}
+
+.last-btn {
+    background-color: maroon;
+    color: white;
+}
